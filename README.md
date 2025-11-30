@@ -196,13 +196,13 @@ storeFile=your_keystore_file.jks
 ## 功能演示
 
 ### 单文件解密
-![Single File](screenshots/single_file.png)
+![Single File](https://img20.360buyimg.com/openfeedback/jfs/t1/365876/10/7920/188397/692c0d3fF9d562173/ed9bafa59f233b19.png)
 
 ### 批量解密
-![Batch Decrypt](screenshots/batch_decrypt.png)
+![Batch Decrypt](https://img20.360buyimg.com/openfeedback/jfs/t1/359625/5/16945/166385/692c0d5fFbc932993/a85849aed01f48de.png)
 
 ### 关于页面
-![About Page](screenshots/about_page.png)
+![About Page](https://img20.360buyimg.com/openfeedback/jfs/t1/369926/27/8395/185127/692c0ceeF8999071f/0d04565936c6c4e4.png)
 
 ---
 
